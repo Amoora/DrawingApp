@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="canvasDescription">This is a drawing application</string>
+</resources>
